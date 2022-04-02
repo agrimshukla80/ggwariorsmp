@@ -1,7 +1,7 @@
 {
 	"ip":"lifechorsmp.tk",
 	"port": 49314,
-	"name": "afkbot",
+	"name": "afkbot1",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (asas1122)",
